@@ -1,1 +1,44 @@
+<html>
+  <head>
+    <title>Пельмени — Википедия</title>
+  </head>
+  <body>
+    <header>
+      <h1>Пельмени</h1>
+      <p><i>Материал из Википедии — свободной энциклопедии</i></p>
+    </header>
 
+    <main>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pelmeni_with_butter.jpg/640px-Pelmeni_with_butter.jpg" width="300" alt="Тарелка пельменей">
+
+      <h1>Описание</h1>
+      <p><b>Пельмени</b> — это тесто с начинкой из мяса, рыбы или овощей. Популярны в России, Китае и других странах.</p>
+
+      <h1>Виды</h1>
+
+      <h1>Сибирские пельмени</h1>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Pelmeni_Russian_dumplings.jpg" width="300" alt="Сибирские пельмени">
+
+      <h1>Цзяоцзы=Китай</h1>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Jiaozi_Dumplings.jpg" width="300" alt="Цзяоцзы">
+
+      <h1>Гёдза=Япония</h1>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Gyoza_with_beer.jpg" width="300" alt="Гёдза">
+
+      <h1>Манты=Средняя Азия</h1>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Manty_with_sour_cream.jpg" width="300" alt="Манты">
+
+      <h1>Факты о пельменях</h1>
+      <p>Слово "пельмени" означает "хлебное ухо".</p>
+      <p>Пельмени удобно замораживать — они долго хранятся и быстро готовятся.</p>
+
+      <h1>Факты о мантах</h1>
+      <p>Манты — это большие пельмени, которые готовят на пару, а не варят.</p>
+      <p>Манты популярны в Узбекистане, Казахстане, Кыргызстане и других странах Центральной Азии.</p>
+    </main>
+
+    <footer>
+      <p>Учебный проект. Основано на стиле Википедии.</p>
+    </footer>
+  </body>
+</html>
